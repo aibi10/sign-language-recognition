@@ -28,6 +28,10 @@ https://github.com/aibi10/sign-language-recognition
 
 ## create environment
 
+
+https://user-images.githubusercontent.com/45706760/190912512-2616aae5-4279-4cee-9a56-5c56ac5f98ba.mp4
+
+
 ```bash
 conda create -n signlanguage python=3.7 -y
 ```
