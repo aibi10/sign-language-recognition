@@ -1,8 +1,6 @@
 ## project: Sign Language Recognition using yolov5
 
-<video width="320" height="240">
-<source src="signlanguagerecognition.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/45706760/190912512-2616aae5-4279-4cee-9a56-5c56ac5f98ba.mp4
 
 <img src="demo/file1.jpg"  width="70%">
 
@@ -31,7 +29,7 @@ https://github.com/aibi10/sign-language-recognition
 ## create environment
 
 
-https://user-images.githubusercontent.com/45706760/190912512-2616aae5-4279-4cee-9a56-5c56ac5f98ba.mp4
+
 
 
 ```bash
