@@ -1,5 +1,9 @@
 ## project: Sign Language Recognition using yolov5
 
+<video width="320" height="240">
+<source src="signlanguagerecognition.mp4" type="video/mp4">
+</video>
+
 <img src="demo/file1.jpg"  width="70%">
 
 Created this project in order to understand the sign language.
@@ -12,9 +16,7 @@ Annotation of images are done with an open source tool named 'labelimg'.
 
 I have captured the images on my own. If you want to contribute to the project may be we can collaborate.
 
-<video width="320" height="240">
-<source src="signlanguagerecognition.mp4" type="video/mp4">
-</video>
+
 
 # How to run?
 
